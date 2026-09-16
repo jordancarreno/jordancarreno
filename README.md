@@ -37,7 +37,7 @@ Diagnóstico de Insatisfacción en Servicios ARL
 ### 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jordancarreno&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
 </div>
 
 ---
