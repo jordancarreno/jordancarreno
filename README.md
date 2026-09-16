@@ -27,8 +27,10 @@ Actualmente estoy profundizando en el **Análisis de Regresión** y el modelamie
 <br>
 
 ### 🚀 Proyectos Destacados
-* **[Nombre de tu proyecto del Bootcamp]** - *Breve descripción de 1 línea de lo que hiciste y qué herramientas usaste.*
-* **[Proyecto de Análisis de Regresión]** - *Aplicación de modelos de regresión para predecir [X variable] usando [R o Python].*
+* **Proyecto de Analítica de Datos
+Diagnóstico de Insatisfacción en Servicios ARL
+** - *Se analizo la informacion de quejas del servicio de ARL para identificar patrones de insatisfaccion.*
+* **[Proyecto de Análisis de Regresión]** - *...*
 
 ---
 
